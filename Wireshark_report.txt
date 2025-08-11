@@ -1,0 +1,18 @@
+Task 5 - Network Traffic Analysis Report
+========================================
+
+Date: DD/MM/YYYY
+Tool: Wireshark
+
+Protocols Identified:
+1. HTTP - Used for unencrypted web traffic.
+2. DNS - Used for resolving domain names to IP addresses.
+3. TCP - Provides reliable, ordered, and error-checked delivery of data.
+
+Observations:
+- Multiple DNS queries for visited websites.
+- HTTP GET requests and responses visible.
+- TCP packets establishing and closing connections.
+
+Files:
+- network_capture_task5.pcap (contains captured network traffic)
