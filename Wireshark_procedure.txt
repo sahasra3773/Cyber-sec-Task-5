@@ -1,0 +1,21 @@
+Task 5 - Capture and Analyze Network Traffic Using Wireshark
+============================================================
+
+Procedure:
+1. Install Wireshark from https://www.wireshark.org/download.html
+2. Launch Wireshark and select your active network interface (Wi-Fi/Ethernet).
+3. Click the 'Start Capturing Packets' button (blue shark fin).
+4. Generate traffic by visiting websites or using ping:
+   Example: ping google.com
+5. Capture for about 1 minute.
+6. Click the red square 'Stop' button to stop capturing.
+7. Use filters to analyze traffic:
+   - http
+   - dns
+   - tcp
+8. Identify at least 3 different protocols in your capture.
+9. Save the capture:
+   - File → Save As → Choose .pcapng or .pcap format.
+10. Create a short report summarizing the identified protocols and observations.
+11. Upload the capture file and report to a new GitHub repository.
+12. Submit the GitHub link via the provided submission form.
